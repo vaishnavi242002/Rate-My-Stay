@@ -13,10 +13,9 @@
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Your chosen backend technology, e.g., Java with Spring Boot]
-- **Database:** [Your chosen database, e.g., MySQL]
-- **Third-Party API:** [Name of the third-party rating service API]
+- **Backend:** [Java with Spring Boot]
+- **Database:** [ MySQL]
+- **Third-Party API**
 
 ## Installation
 
