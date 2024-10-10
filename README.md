@@ -5,9 +5,6 @@
 
 This project emphasizes user-generated content, offering a robust rating system and review mechanism that empowers travelers to share their experiences with others.
 
-## **Screenshot**
-Here is a concept illustrating the hotel's inventory and review management system:
-
 ![Inventory Control System Concept](https://chanoudgarh.com/wp-content/uploads/2023/05/Luxury-Hotels-in-India.jpg)
 
 ## **Technologies Used**
